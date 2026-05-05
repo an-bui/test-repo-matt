@@ -3,3 +3,9 @@ title: "test doc"
 author: "An Bui, Matthew Roco-Calvo"
 format: pdf
 ---
+ 
+# 1. Set up
+
+## Packages
+
+## Data
